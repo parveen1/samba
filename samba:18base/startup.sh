@@ -4,7 +4,7 @@
 # -------------------------------------
 
 /opt/docker/install.sh && echo "Install Ok"
-/usb/sbin/smb && echo "smb Ok"
-/usr/sbin/nmb && echo "nmb  Ok"
+/usr/sbin/smbd && echo "smb Ok"
+/usr/sbin/nmbd && echo "nmb  Ok"
 /bin/bash
 
